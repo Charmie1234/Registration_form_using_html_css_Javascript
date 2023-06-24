@@ -1,0 +1,54 @@
+/**
+ * @Author: Your name
+ * @Date:   2023-06-25 01:53:08
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2023-06-25 01:59:22
+ */
+table{
+	margin-top: 50px;
+	text-align: center;
+	border: 10px;
+	border-color: solid blue;
+	border-collapse: collapse;
+	color: white;
+}
+
+#list td{
+	padding: 13px;
+	color: blue;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	background-color: #ffffff;
+}
+
+#btn_a td input{
+	margin-top: 5%;
+	padding: 10px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	outline: none;
+	background: #2a7ca5;
+	color: rgb(0, 0, 0);
+	text-transform: capitalize;
+
+}
+#btn_a td input:hover{
+	background: pink;
+  }
+
+
+#list th{
+	padding: 13px;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	background: #ffffff;
+	color: blue;
+}
+
+body{
+	background: pink;
+	color: white;
+}
